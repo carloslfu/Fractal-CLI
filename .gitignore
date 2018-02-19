@@ -1,0 +1,40 @@
+# Project specific stuff
+/core/
+/groups/
+/tasks/
+/interfaces/
+/examples/
+/simpleExample/
+/examplesAot/
+/benchmarks/
+/utils/
+/prerender/
+/toHTML/
+/playground/
+/featureExample/
+coverage/
+reports/
+dist/
+src/playground/dist/
+.fusebox
+
+# npm stuff
+node_modules/
+npm-debug.log
+
+# Editor Stuff
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.bak
+*~
+
+# System stuff
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.directory

@@ -1,0 +1,25 @@
+{
+  "name": "fractal-cli",
+  "version": "0.0.2",
+  "description": "A minimalist and well crafted app, content or component is our conviction",
+  "main": "core/index.js",
+  "typings": "core/index.d.ts",
+  "keywords": [
+    "frontend",
+    "cli",
+    "architecture",
+    "fractal",
+    "functional-programming",
+    "typescript",
+    "craft"
+  ],
+  "files": [
+    "LICENSE"
+  ],
+  "author": "Carlos Galarza <carloslfu@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FractalBlocks/Fractal-CLI.git"
+  },
+  "license": "MIT"
+}
